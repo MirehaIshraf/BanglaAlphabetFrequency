@@ -2,4 +2,4 @@
 
 
 
-![alt text](https://github.com/MirehaIshraf/BanglaAlphabetFrequency/main/chart.PNG?raw=true)
+![alt text](https://github.com/MirehaIshraf/BanglaAlphabetFrequency/blob/main/chart.PNG?raw=true)
